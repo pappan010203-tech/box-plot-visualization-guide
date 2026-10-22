@@ -12,7 +12,7 @@ The box represents the interquartile range, while the median line shows the cent
 
 ## Online Visualization Resource
 
-For a practical demonstration, use this [[box plot visualization tool]([url](https://freestatisticaltools.com/box-plot-maker))](https://freestatisticaltools.com/box-plot-maker) to explore how numerical data can be represented as a box-and-whisker plot.
+For a practical demonstration, use this [([url](https://freestatisticaltools.com/box-plot-maker))](https://freestatisticaltools.com/box-plot-maker) to explore how numerical data can be represented as a box-and-whisker plot.
 
 ## Learning Objectives
 
